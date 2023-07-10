@@ -1,0 +1,22 @@
+*Specifications of the Blue Pill Board*
+
+Microcontroller Name: STM32F103C8T6
+Maximum Frequency: 72MHz
+Flash memory: 64 or 128 Kb
+SRAM: 20Kb
+Input voltage: 2-3.3V DC
+16 channels ADC
+I/O Ports: 37
+Timers: 7
+Two I2C ports
+Three UART Ports
+TWO SPI ports
+CAN interface
+
+*Applications of the Blue Pill Board*
+
+Multi-rotors
+Robotics and automation
+Sensor development
+Rapid prototyping
+Consumer products
